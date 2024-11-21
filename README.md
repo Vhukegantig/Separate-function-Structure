@@ -1,8 +1,8 @@
 # Step-by-Step Instructions
 
-## 0. Creata a new arduino program
+## 0. Create a new arduino program
 
-- Create a new sketch and save it as `myprogram.ino`
+- Create a new sketch and save it as `myprogram.ino`.
 
 ## 1. Create a New Header File
 
