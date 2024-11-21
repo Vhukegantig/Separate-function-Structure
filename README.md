@@ -1,5 +1,7 @@
 # Step-by-Step Instructions
 
+Using arduino IDE 2.3.2
+
 ## 0. Create a new arduino program
 
 - Create a new sketch and save it as `myprogram.ino`.
